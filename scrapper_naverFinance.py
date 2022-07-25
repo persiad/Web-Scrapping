@@ -1,4 +1,4 @@
-#Hynix PlotChart - building for myself
+#Hynix PlotChart 
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
